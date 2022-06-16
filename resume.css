@@ -26,13 +26,13 @@ body {
 }
 
 .full {
-    width: 70%;
+    width: 60%;
     max-width: 1200px;
     min-height: 100px;
     background-color: rgb(245, 239, 231);
     margin: 0px;
     display: grid;
-    grid-template-columns: 2fr 4fr;
+    grid-template-columns: 1.2fr 4fr;
 }
 
 .left {
