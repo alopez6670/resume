@@ -21,6 +21,10 @@ body {
     text-align: justify;
 }
 
+.letter.p {
+    text-align: justify;
+}
+
 .full {
     width: 70%;
     max-width: 1200px;
