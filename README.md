@@ -1,2 +1,2 @@
-# resume
+# Resume
 Alfredo's Resume
